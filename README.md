@@ -171,9 +171,9 @@ Client B:
 
 ## Author
 
-Aditya Nanda
-[LinkedIn](https://linkedin.com/in/aditya-nanda-8b0325252)
-[Email](mailto:a.nanda@iitg.ac.in)
+Alku Mandal
+[LinkedIn](https://linkedin.com/in/alkumandal6023)
+[Email](mailto:m.alku@iitg.ac.in)
 
 ---
 
