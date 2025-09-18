@@ -167,16 +167,6 @@ Client B:
 * Prompt confirmation on file overwrites
 * Introduce a Makefile for cross-platform build automation
 
----
-
-## Author
-
-Alku Mandal
-[LinkedIn](https://linkedin.com/in/alkumandal6023)
-[Email](mailto:m.alku@iitg.ac.in)
-
----
-
 ## License
 
-Maintained by Author
+Maintained by Author - Alku Mandal
